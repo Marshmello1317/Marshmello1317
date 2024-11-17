@@ -1,13 +1,20 @@
--👋 Hi, I’m @Marshmello1317
--👀 I’m interested in ...
+👋 Hi, I’m @Marshmello1317
+
+
+👀 I’m interested in ...
+
+
 - Hunting
 - Fishing
 - Codeing
 - Building things in general
--🌱 I’m currently learning ...
+🌱 I’m currently learning ...
+
+
 - The Full Stack dev corse on Codecademy
 - 📫 How to reach me ...
--⚡ Fun fact: ...
+
+⚡ Fun fact: ...
 - I have 5 chickens
 - 3 cats
 - 3 dogs
